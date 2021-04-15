@@ -1,0 +1,35 @@
+.header img{
+    height: 80px;
+}
+.header{
+    text-align: center;
+}
+.nav{
+    background-color: rgb(0, 0, 0);
+    padding: 1px;
+}
+.nav a{
+    padding: 20px;
+    text-decoration:none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav a:hover{
+    background-color:darkslategrey;
+}
+.add-cart{
+    color: white;
+    margin-left: 200;
+}
+.nav-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.add-card{
+    margin-left: 30px;
+    color: white;
+    font-weight: bold;
+}

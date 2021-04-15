@@ -1,0 +1,21 @@
+.shop-container{
+    width: 1300px;
+    /* border: 1px solid red; */
+    margin: auto;
+    display: flex;
+    
+    
+}
+.product-container{
+    width: 70%;
+    /* border-right: 3px solid rgb(214, 214, 214); */
+    padding: 10px;
+}
+.cart-container{
+    background-color:rgb(245, 244, 244);
+    width: 28%;
+    
+}
+.cart-mg{
+    margin-left: 20px;
+}
