@@ -1,0 +1,30 @@
+.product {
+    display: flex;
+    justify-self: center;
+    border-bottom: 3px solid rgb(212, 212, 212);
+    align-items: start;
+}
+
+.heading-name {
+    width: 500px;
+    margin-left: 20px;
+}
+
+.btn {
+    background-color: goldenrod;
+    width: 200px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(22, 22, 22);
+}
+
+.icon,
+.btn {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
